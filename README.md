@@ -1,7 +1,7 @@
-# Study Focus Timer with Face Tracking
+# Study Focus Timer with Face Tracking (Lowkenuinely Brainrot)
 
 A simple desktop app to help you stay focused during study sessions.  
-It uses your webcam to detect if you're looking at the screen. If not, it plays a funny "We are Charlie Kirk" sound and shows alerts.
+It uses your webcam to detect if you're doomscrolling. If not, "We are Charlie Kirk" will be played.
 
 ## Features
 - Choose study duration (1–12 hours)
