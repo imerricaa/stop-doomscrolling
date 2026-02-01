@@ -18,6 +18,9 @@ It uses your webcam to detect if you're looking at the screen. If not, it plays 
 
 ```bash
 pip install opencv-python mediapipe pygame
+```
+
 ## Run
 ```bash
 python main.py
+```
